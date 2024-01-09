@@ -6,8 +6,8 @@
 #include <stdlib.h>
 using namespace std;
 
-#ifndef BEAD5_H
-#define BEAD5_H
+#ifndef BEADS_H
+#define BEADS_H
 
 #define DECREASEAGE 0 // 1 incorporates cell death, 0 does not
 
